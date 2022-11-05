@@ -1,0 +1,1512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>Alpha</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Alfa, ou *canal alfa*, está relacionado à opacidade de uma cor, variando de `0` (completamente transparente) a `1` (completamente opaco). Os dados de alfa são um double (número decimal) entre 0 e 1.</string>
+				<key>Title</key>
+				<string>alfa</string>
+			</dict>
+		</dict>
+		<key>Boolean</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um tipo que tem um valor `true` (verdadeiro) ou `false` (falso). Por exemplo, `9 &lt; 7` retorna um valor booleano `false` porque `9` não é menor que `7`.</string>
+				<key>Title</key>
+				<string>Booleano</string>
+			</dict>
+		</dict>
+		<key>Double</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um tipo que armazena números que têm um componente fracionário; por exemplo 3.14. Nota: o Swift Playgrounds usa ponto (.) em vez de vírgula (,) como separador decimal.</string>
+				<key>Title</key>
+				<string>Double</string>
+			</dict>
+		</dict>
+		<key>Int</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um tipo que armazena um número inteiro, como `10` ou `-42`.</string>
+				<key>Title</key>
+				<string>Int</string>
+			</dict>
+		</dict>
+		<key>String</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um tipo que armazena uma série de caracteres, como `"olá, mundo"` ou `"gatinhos dançantes"`.</string>
+				<key>Title</key>
+				<string>String</string>
+			</dict>
+		</dict>
+		<key>Swift</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>A linguagem de programação da Apple, usada para escrever apps para iPhone, iPad, Mac, Apple Watch e Apple TV.</string>
+				<key>Title</key>
+				<string>Swift</string>
+			</dict>
+		</dict>
+		<key>SwiftUI</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>A SwiftUI é uma maneira moderna de declarar interfaces de usuário para qualquer plataforma da Apple. Ela fornece visualizações, controles e estruturas de layout para declarar a interface de usuário do app. O framework fornece controladores de eventos para realizar toques, gestos e outros tipos de entrada no app, além de ferramentas para gerenciar o fluxo de dados desde os modelos do app até às visualizações e controles que os usuários veem e com os quais interagem.</string>
+				<key>Title</key>
+				<string>SwiftUI</string>
+			</dict>
+		</dict>
+		<key>absolute value</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>O valor sem sinal de um número. Por exemplo, o valor absoluto de -12 é 12 e o valor absoluto de 23.4 é 23.4.</string>
+				<key>Title</key>
+				<string>valor absoluto</string>
+			</dict>
+		</dict>
+		<key>abstraction</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Uma versão simplificada de uma coisa mais complexa.   Uma abstração oculta detalhes para que você combine e pense sobre partes do código mais facilmente.  Por exemplo, um [tipo](glossary://type) é uma abstração que oculta a configuração, propriedades e métodos de uma instância desse tipo.</string>
+				<key>Title</key>
+				<string>abstração</string>
+			</dict>
+		</dict>
+		<key>accelerometer</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um sensor que mede a aceleração do dispositivo em três dimensões: para cima e para baixo, para a frente e para trás, e para a esquerda e para a direita.</string>
+				<key>Title</key>
+				<string>acelerômetro</string>
+			</dict>
+		</dict>
+		<key>adopt</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Para adotar um protocolo, um tipo fornece um conjunto de suas próprias implementações para os requisitos do protocolo, como os métodos e propriedades listados.</string>
+				<key>Title</key>
+				<string>adotar</string>
+			</dict>
+		</dict>
+		<key>algorithm</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um conjunto de instruções ou regras passo a passo para solucionar um problema. Por exemplo, uma lista de passos usados para preparar uma xícara de chá pode ser considerada um algoritmo.</string>
+				<key>Title</key>
+				<string>algoritmo</string>
+			</dict>
+		</dict>
+		<key>append</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Adicionar ao final de alguma coisa. Por exemplo, você pode adicionar uma string ao final de outra string ou adicionar um item a um vetor de itens.
+</string>
+				<key>Title</key>
+				<string>adicionar</string>
+			</dict>
+		</dict>
+		<key>application</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Software, feito de código, que permite que você realize tarefas específicas. Por exemplo, você usa o aplicativo (app) Mensagens para enviar e receber mensagens.</string>
+				<key>Title</key>
+				<string>aplicativo</string>
+			</dict>
+		</dict>
+		<key>argument</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um valor de entrada inserido em uma função para personalizar seu comportamento. Por exemplo, na chamada de função `move(distance: 3)`, o número `3` é um argumento que especifica o número de espaços do movimento.</string>
+				<key>Title</key>
+				<string>argumento</string>
+			</dict>
+		</dict>
+		<key>arithmetic operator</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um símbolo, como `+`, `-`, `*` ou `/`, que realiza uma operação matemática básica em um ou mais números. Por exemplo, `42 / 7` e `17 - 5` usam operadores aritméticos.</string>
+				<key>Title</key>
+				<string>operador aritmético</string>
+			</dict>
+		</dict>
+		<key>array</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Uma coleção que armazena uma lista ordenada de itens do mesmo tipo. O mesmo item pode aparecer várias vezes em posições diferentes. Por exemplo, `highScores = [37, 34, 29, 29, 26]` é um vetor de [números inteiros](glossary://Int).</string>
+				<key>Title</key>
+				<string>vetor</string>
+			</dict>
+		</dict>
+		<key>asset</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Materiais são imagens, sons e outros itens que o app usa. Você pode importar materiais no Swift Playgrounds a partir de outros apps, como os apps Arquivos e Fotos.</string>
+				<key>Title</key>
+				<string>material</string>
+			</dict>
+		</dict>
+		<key>assignment</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Uma ação que define o valor de uma variável ou constante.</string>
+				<key>Title</key>
+				<string>atribuição</string>
+			</dict>
+		</dict>
+		<key>assignment operator</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>O símbolo `=` usado para definir o valor de uma variável. Por exemplo, `greeting = "olá"` define o valor de `greeting` (saudação) como `"olá"`.</string>
+				<key>Title</key>
+				<string>operador de atribuição</string>
+			</dict>
+		</dict>
+		<key>asynchronous process</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um bloco de código que pode ser executado enquanto o restante do app ou programa continua sendo executado. Ao contrário de um processo síncrono, que bloqueia a execução do programa até que ele termine, um processo assíncrono pode ser executado simultaneamente com o restante do código do app.</string>
+				<key>Title</key>
+				<string>processo assíncrono</string>
+			</dict>
+		</dict>
+		<key>binding</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Adicione o [empacotador de propriedades](glossary://property%20wrapper) `@Binding` para criar uma conexão de mão dupla entre uma propriedade que armazena dados e uma visualização que exibe e altera os dados. Um vínculo conecta uma propriedade a uma fonte da verdade armazenada em outro local, em vez de armazenar os dados diretamente. 
+
+Por exemplo, um botão que alterne entre reproduzir e pausar pode criar um vínculo com uma propriedade da visualização principal ao usar o empacotador de propriedades `@Binding`.
+</string>
+				<key>Title</key>
+				<string>vínculos</string>
+			</dict>
+		</dict>
+		<key>body</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>O corpo de uma [visualização](glossary://view) é onde você fornece o conteúdo da visualização, composto de pelo menos uma [visualização primitiva](glossary://primitive%20view) que a SwiftUI fornece ou de qualquer [visualização composta](glossary://composed%20view) que você já tenha criado.</string>
+				<key>Title</key>
+				<string>corpo</string>
+			</dict>
+		</dict>
+		<key>bounds</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Em um vetor, o intervalo de valores que um índice do vetor pode ter. Por exemplo, o vetor `[17, 42, 95]` pode ter valores de índice de 0 a 2. A verificação de limites é o processo que comprova que um valor de índice está dentro dos limites de um vetor.</string>
+				<key>Title</key>
+				<string>limites</string>
+			</dict>
+		</dict>
+		<key>brightness</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>A quantidade de luz entrando na câmera, variando de `0` (nenhuma luz) a `1` (totalmente iluminada). O brilho é um [Double](glossary://Double) (número decimal) entre `0` e `1`.</string>
+				<key>Title</key>
+				<string>brilho</string>
+			</dict>
+		</dict>
+		<key>bug</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um erro no código, que impede que um aplicativo seja executado como previsto. 
+</string>
+				<key>Title</key>
+				<string>bug</string>
+			</dict>
+		</dict>
+		<key>bundle</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Uma representação do código e dos recursos armazenados em um diretório de pacote no disco. Os pacotes organizam os recursos contidos em subdiretórios bem estruturados e as estruturas de pacote variam de acordo com a plataforma e o tipo do pacote. Ao usar um objeto de pacote, você pode acessar os recursos do pacote sem saber a estrutura do pacote.</string>
+				<key>Title</key>
+				<string>pacote</string>
+			</dict>
+		</dict>
+		<key>call</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Em código, chamar uma função é instruí-la a ser executada, realizando as ações definidas na função.</string>
+				<key>Title</key>
+				<string>chamar</string>
+			</dict>
+		</dict>
+		<key>child view</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Uma visualização contida em uma [visualização principal](glossary://parent%20view). Uma visualização principal pode conter qualquer número de visualizações secundárias, onde cada uma pode conter suas próprias visualizações secundárias e assim por diante. Uma visualização e todos os seus descendentes compõem uma [hierarquia de visualização](glossary://view%20hierarchy).</string>
+				<key>Title</key>
+				<string>visualização secundária</string>
+			</dict>
+		</dict>
+		<key>class</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Uma classe é um contêiner para código que atua como um projeto para criação de várias cópias do mesmo tipo de coisa. Da mesma maneira que um projeto pode definir os recursos e comportamentos de um objeto, como uma bicicleta, uma classe as define como [propriedades](glossary://property) e [métodos](glossary://method).
+
+Quando você cria uma nova cópia ou [instância](glossary://instance) de uma classe, essa instância contém todas as propriedades e métodos do seu projeto. Porém, os valores de cada instância podem ser alterados independentemente, permitindo que você personalize o comportamento de cada cópia. Por exemplo, uma classe de bicicleta pode ter uma propriedade de cor, de modo que você possa criar bicicletas vermelhas e azuis.</string>
+				<key>Title</key>
+				<string>classe</string>
+			</dict>
+		</dict>
+		<key>closure</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Encerramentos são [funções](glossary://function) executadas onde se encontram, sem a necessidade de um nome.
+					
+```
+scene.setOnStartHandler {
+    // Corpo do encerramento
+}
+```
+                    
+Encerramentos podem capturar e armazenar referências a quaisquer constantes e variáveis a partir do contexto no qual são definidas. Isso é chamado de encerramento sobre essas constantes e variáveis.</string>
+				<key>Title</key>
+				<string>encerramento</string>
+			</dict>
+		</dict>
+		<key>code comment</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um comentário de código é uma maneira que programadores usam para documentar o código.   Você pode começar um comentário de uma linha com duas barras seguidas de um espaço. Por exemplo, “// Este é o meu comentário.”.   Ao executar o código, os comentários do código não são executados.</string>
+				<key>Title</key>
+				<string>comentário de código</string>
+			</dict>
+		</dict>
+		<key>code expression</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um pedaço de código que pode ser avaliado para retornar um valor. Por exemplo, se `months` for um vetor que contém 12 itens, a expressão de código `months.count - 1` retornará o valor `11`.</string>
+				<key>Title</key>
+				<string>expressão de código</string>
+			</dict>
+		</dict>
+		<key>coding</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>O ato de escrever comandos, estruturas de código e algoritmos para criar um aplicativo.</string>
+				<key>Title</key>
+				<string>programação</string>
+			</dict>
+		</dict>
+		<key>collection</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Uma estrutura de dados, como um vetor ou dicionário, usada para armazenar diversos dados.</string>
+				<key>Title</key>
+				<string>coleção</string>
+			</dict>
+		</dict>
+		<key>command</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um código que manda um aplicativo realizar uma ação específica. </string>
+				<key>Title</key>
+				<string>comando</string>
+			</dict>
+		</dict>
+		<key>comment out</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Impedir que uma linha de código seja executada ao transformá-la em um [comentário de código](glossary://code%20comment). Para fazer isso, adicione `//` antes de qualquer linha de código. Por exemplo:
+                
+`// level.run()`</string>
+				<key>Title</key>
+				<string>comentário</string>
+			</dict>
+		</dict>
+		<key>comparison operator</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um símbolo, como `==`, `!=`, `&lt;`, `&gt;`, `&lt;=` ou `&gt;=`, usado para comparar dois valores. Um operador de comparação pode ser usado em uma condição de uma instrução `if` ou loop `while` para retornar um valor booleano que indica se uma comparação é `true` (verdadeira). Por exemplo, `6 &gt; 8` compara `6` com `8` e retorna `false`.</string>
+				<key>Title</key>
+				<string>operador de comparação</string>
+			</dict>
+		</dict>
+		<key>compiler error</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Erros de compilador ocorrem por imprecisões no código. Você verá isso como um ponto vermelho na margem do lado esquerdo e na barra de ferramentas.</string>
+				<key>Title</key>
+				<string>erro de compilador</string>
+			</dict>
+		</dict>
+		<key>composed view</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Uma [visualização](glossary://view) criada pela combinação de uma ou mais [primitivas](glossary://primitive%20view) ou visualizações compostas.
+</string>
+				<key>Title</key>
+				<string>visualização composta</string>
+			</dict>
+		</dict>
+		<key>composition</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>O processo de combinar partes pequenas de um aplicativo para formar pedaços maiores que são mais simples de trabalhar e entender.</string>
+				<key>Title</key>
+				<string>composição</string>
+			</dict>
+		</dict>
+		<key>compound assignment operator</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um operador que combina atribuição (definição do valor de uma variável) com outra operação, como uma adição ou subtração. Por exemplo, se o valor atual de `a` é `1`, usar `a += 3` vai somar `3` com `1` e vai atribuir o resultado a `a`, de modo que agora o valor de `a` é `4`.</string>
+				<key>Title</key>
+				<string>operador de atribuição composta</string>
+			</dict>
+		</dict>
+		<key>computed property</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Em vez de armazenar valores diretamente, uma propriedade calculada avalia um valor com base no estado atual de outros valores relacionados quando obtidos.
+
+No exemplo abaixo, `area` é uma propriedade calculada, enquanto `width` e `height` são propriedades armazenadas:
+
+```
+struct RectangleCalculator { 
+    var width = 10.0
+    var height = 10.0
+    
+    var area : Double { 
+        return width * height
+    }
+} 
+```</string>
+				<key>Title</key>
+				<string>propriedade calculada</string>
+			</dict>
+		</dict>
+		<key>conditional code</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um código que é executado somente quando condições específicas são cumpridas. Por exemplo, instruções `if` e loops `while` contêm código condicional que é executado somente se ou enquanto uma condição é `true` (verdadeira).</string>
+				<key>Title</key>
+				<string>código condicional</string>
+			</dict>
+		</dict>
+		<key>conform</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um tipo conforma com um protocolo quando ele fornece sua própria implementação para os requisitos desse protocolo.</string>
+				<key>Title</key>
+				<string>conformar</string>
+			</dict>
+		</dict>
+		<key>constant</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um contêiner com nome, que armazena um valor que não pode ser alterado.</string>
+				<key>Title</key>
+				<string>constante</string>
+			</dict>
+		</dict>
+		<key>container</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um contêiner, também conhecido como [visualização principal](glossary://parent%20view), é uma visualização que contém outras visualizações dentro de si.</string>
+				<key>Title</key>
+				<string>contêiner</string>
+			</dict>
+		</dict>
+		<key>coordinates</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um conjunto de números que determina exclusivamente uma posição em um espaço. Por exemplo, (100, -200) são coordenadas de um ponto em um espaço 2D, onde a coordenada x é 100 e a coordenada y é -200.</string>
+				<key>Title</key>
+				<string>coordenadas</string>
+			</dict>
+		</dict>
+		<key>data</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Informações que são processadas ou armazenadas por um computador e são distintas do código que age sobre elas.</string>
+				<key>Title</key>
+				<string>dados</string>
+			</dict>
+		</dict>
+		<key>debug</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Encontrar e corrigir erros no código que impedem que um aplicativo seja executado corretamente. </string>
+				<key>Title</key>
+				<string>depurar</string>
+			</dict>
+		</dict>
+		<key>declaration</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um pedaço de código que cria algo novo no seu aplicativo, como uma função, variável ou tipo personalizado. Por exemplo, `let planet = "Terra"` declara uma nova constante, `planet` (planeta), e atribui a ela o valor `"Terra"`.</string>
+				<key>Title</key>
+				<string>declaração</string>
+			</dict>
+		</dict>
+		<key>decomposition</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>O processo de desmembrar um problema grande em pedaços menores, mais fáceis de lidar.</string>
+				<key>Title</key>
+				<string>decomposição</string>
+			</dict>
+		</dict>
+		<key>decrement</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Diminuir um número em um valor inteiro, geralmente 1.</string>
+				<key>Title</key>
+				<string>decrementar</string>
+			</dict>
+		</dict>
+		<key>define</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Fornecer o valor ou comportamento de um pedaço de código recém‑criado, como uma função, variável ou tipo personalizado. Por exemplo, você define uma função fornecendo um conjunto de comandos dentro da função para indicar o que ela deve fazer.</string>
+				<key>Title</key>
+				<string>definir</string>
+			</dict>
+		</dict>
+		<key>dot notation</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Uma forma de sintaxe usada para acessar as propriedades ou chamar os métodos de uma instância. Por exemplo, `expert.toggleSwitch()` chama o método `toggleSwitch()` na instância `expert`.</string>
+				<key>Title</key>
+				<string>notação de ponto</string>
+			</dict>
+		</dict>
+		<key>efficiency</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Uma medida do quão bom um pedaço de código é para executar seu propósito rapidamente, ao mesmo tempo em que usa o mínimo de recursos — como memória ou energia — possível.</string>
+				<key>Title</key>
+				<string>eficiência</string>
+			</dict>
+		</dict>
+		<key>else block</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>O último bloco de código em uma instrução `if`. O bloco `else` é executado se todas as condições da instrução `if` são `false` (falsas).</string>
+				<key>Title</key>
+				<string>bloco “else”</string>
+			</dict>
+		</dict>
+		<key>else if block</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um bloco de código em uma instrução `if`, usado para conferir uma condição que não é conferida pelo bloco `if` ou quaisquer outros blocos `else if`.</string>
+				<key>Title</key>
+				<string>bloco “else if”</string>
+			</dict>
+		</dict>
+		<key>enumeration</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um tipo que define um conjunto de valores únicos, mas relacionados, chamados *casos de enumeração*. Por exemplo, uma enumeração de `Direction` (direção) define casos para cada ponto cardeal: `north` (norte), `south` (sul), `east` (leste) e `west` (oeste). Ao atribuir uma enumeração a uma variável ou constante, você sempre deve escolher um de seus casos. Por exemplo, `let compassDirection: Direction = .north`.</string>
+				<key>Title</key>
+				<string>enumeração</string>
+			</dict>
+		</dict>
+		<key>environment object</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Adicione o [empacotador de propriedades](glossary://property%20wrapper) `@EnvironmentObject` para declarar uma propriedade de objeto observável fornecida por uma visualização principal ou ancestral. Caso declare uma propriedade como um objeto de ambiente, lembre-se de definir uma instância de modelo correspondente em uma visualização ancestral ao chamar seu modificador `environmentObject(_:)`.</string>
+				<key>Title</key>
+				<string>objeto de ambiente</string>
+			</dict>
+		</dict>
+		<key>event</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Uma ação que pode ser detectada por um aplicativo de computador. A entrada, como o pressionamento de um botão ou o giro da tela, aciona um evento.</string>
+				<key>Title</key>
+				<string>evento</string>
+			</dict>
+		</dict>
+		<key>event handler</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Uma função que é chamada após um evento ocorrer, para controlar o evento.</string>
+				<key>Title</key>
+				<string>controlador de eventos</string>
+			</dict>
+		</dict>
+		<key>filtering</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Processamento de dados em uma coleção ou estrutura de dados para produzir um novo conjunto de dados.</string>
+				<key>Title</key>
+				<string>filtragem</string>
+			</dict>
+		</dict>
+		<key>font</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um conjunto de caracteres de texto em um estilo de design, peso e tamanho específicos. O estilo de design de uma fonte é conhecido como *tipologia* e variações desse design formam a *família* da tipologia. Por exemplo, HelveticaNeue é uma tipologia e HelveticaNeue-Bold de 10 pontos é uma fonte.</string>
+				<key>Title</key>
+				<string>fonte</string>
+			</dict>
+		</dict>
+		<key>for loop</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um bloco de código repetido que é executado um determinado número de vezes.</string>
+				<key>Title</key>
+				<string>loop “for”</string>
+			</dict>
+		</dict>
+		<key>full function name</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>O nome completo de uma função, incluindo os nomes de seus parâmetros separados por dois pontos (`:`); por exemplo, `move(to:duration:)`.</string>
+				<key>Title</key>
+				<string>nome completo da função</string>
+			</dict>
+		</dict>
+		<key>function</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um conjunto de [comandos](glossary://command) com nome, que pode ser executado sempre que necessário.</string>
+				<key>Title</key>
+				<string>função</string>
+			</dict>
+		</dict>
+		<key>function definition</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Uma definição de função descreve o que uma função faz, o que ela espera receber e o que ela retorna ao ser concluída.</string>
+				<key>Title</key>
+				<string>definição de função</string>
+			</dict>
+		</dict>
+		<key>global function</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string></string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Uma função que pode ser acessada a partir de qualquer arquivo no projeto.</string>
+				<key>Title</key>
+				<string>função global</string>
+			</dict>
+		</dict>
+		<key>global variable</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string></string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Uma variável que pode ser acessada a partir de qualquer arquivo no projeto.</string>
+				<key>Title</key>
+				<string>variável global</string>
+			</dict>
+		</dict>
+		<key>grayscale</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um intervalo de tons de cinza entre branco e preto.</string>
+				<key>Title</key>
+				<string>tons de cinza</string>
+			</dict>
+		</dict>
+		<key>gyroscope</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um sensor que mede a orientação do dispositivo em três dimensões: a inclinação de frente para trás, a inclinação da esquerda para a direita e a rotação ao redor do centro.</string>
+				<key>Title</key>
+				<string>giroscópio</string>
+			</dict>
+		</dict>
+		<key>hertz</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Hertz (Hz) é um ciclo por segundo. Quando aplicado a vibrações sonoras, 1 Hz é uma onda de som por segundo. Humanos podem ouvir entre 20 Hz e 16.000 Hz.</string>
+				<key>Title</key>
+				<string>hertz</string>
+			</dict>
+		</dict>
+		<key>hue</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>O tom de uma cor no disco de cores, que é um double (número decimal) que varia de `0` a `1`.</string>
+				<key>Title</key>
+				<string>matiz</string>
+			</dict>
+		</dict>
+		<key>if block</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>O primeiro bloco de código em uma instrução `if`. O bloco `if` é executado se a condição da instrução `if` é `true` (verdadeira).</string>
+				<key>Title</key>
+				<string>bloco “if”</string>
+			</dict>
+		</dict>
+		<key>if statement</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Uma estrutura de código usada para executar código com base no valor de uma ou mais condições. O primeiro bloco de código em uma instrução `if` é o bloco `if`. Uma instrução `if` também pode conter outros blocos que fornecem verificações adicionais, como um bloco `else` e um bloco `else if`.</string>
+				<key>Title</key>
+				<string>instrução “if”</string>
+			</dict>
+		</dict>
+		<key>increment</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Aumentar um número em um valor inteiro, geralmente 1.</string>
+				<key>Title</key>
+				<string>incrementar</string>
+			</dict>
+		</dict>
+		<key>index</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um número que representa a posição de um item em um [vetor](glossary://array).</string>
+				<key>Title</key>
+				<string>índice</string>
+			</dict>
+		</dict>
+		<key>index out of range error</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um erro causado pela tentativa de acessar um vetor usando um índice que está fora do intervalo desse vetor. Por exemplo, o índice `2` está fora do intervalo do seguinte vetor: `[17, 42]`.</string>
+				<key>Title</key>
+				<string>erro de índice fora do intervalo</string>
+			</dict>
+		</dict>
+		<key>initialization</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>O ato de criar uma nova instância de um tipo, que inclui a definição dos valores iniciais de quaisquer propriedades desse tipo.</string>
+				<key>Title</key>
+				<string>inicialização</string>
+			</dict>
+		</dict>
+		<key>initializer</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um inicializador é chamado para criar uma nova [instância](glossary://instance) de um tipo. O inicializador deve definir todos os valores iniciais das propriedades do tipo e, normalmente, contém outros códigos de configuração.</string>
+				<key>Title</key>
+				<string>inicializador</string>
+			</dict>
+		</dict>
+		<key>inner loop</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um bloco de código repetitivo (um loop) que está aninhado em outro loop (externo).</string>
+				<key>Title</key>
+				<string>loop interno</string>
+			</dict>
+		</dict>
+		<key>instance</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um valor de um [tipo](glossary://type) específico. Por exemplo, em `motion = MotionSensor()`, `motion` (movimento) é uma instância do tipo `MotionSensor`.</string>
+				<key>Title</key>
+				<string>instância</string>
+			</dict>
+		</dict>
+		<key>iteration</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>O ato de repetir um processo, como realizar a mesma ação em cada item de um vetor.</string>
+				<key>Title</key>
+				<string>iteração</string>
+			</dict>
+		</dict>
+		<key>lag</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Uma diminuição na velocidade ou responsividade do app, resultante de demandas de processamento, poder de processamento ou ambos.</string>
+				<key>Title</key>
+				<string>lentidão</string>
+			</dict>
+		</dict>
+		<key>leading edge</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>A margem condutora, quando usada em referência ao conteúdo dentro de uma visualização, se refere à posição horizontal do início do conteúdo. A posição da margem condutora depende das suas preferências e é, tipicamente, baseada nos ajustes de local e idioma.
+                    Por exemplo, em um idioma escrito da esquerda para a direita, como português ou inglês, a margem condutora está à esquerda. Em idiomas escritos da direita para a esquerda, como árabe ou hebraico, a margem condutora está à direita.</string>
+				<key>Title</key>
+				<string>margem condutora</string>
+			</dict>
+		</dict>
+		<key>literal</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Literais permitem que você integre imagens e cores diretamente no seu código, usando a biblioteca de imagens ou seletor de cores. Literais são os valores reais dos seus dados, representados em seus formatos nativos, diretamente no editor.</string>
+				<key>Title</key>
+				<string>literal</string>
+			</dict>
+		</dict>
+		<key>logical AND operator</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um símbolo (`&amp;&amp;`) que combina dois valores booleanos, onde os dois valores precisam ser verdadeiros para que o código geral seja verdadeiro. Por exemplo, `a &amp;&amp; b` é `true` (verdadeiro) somente quando `a` e `b` são `true`.</string>
+				<key>Title</key>
+				<string>operador lógico E</string>
+			</dict>
+		</dict>
+		<key>logical NOT operator</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um símbolo (`!`) que inverte o valor booleano de um pedaço de código. Por exemplo, se `a` é `true` (verdadeiro), então `!a` é `false` (falso).</string>
+				<key>Title</key>
+				<string>operador lógico NÃO</string>
+			</dict>
+		</dict>
+		<key>logical OR operator</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um símbolo (`||`) que combina dois valores booleanos, onde apenas um valor precisa ser verdadeiro para que o código geral seja verdadeiro. Por exemplo, `a || b` é `true` (verdadeiro) quando `a` ou `b` são `true` (ou quando ambos são `true`).</string>
+				<key>Title</key>
+				<string>operador lógico OU</string>
+			</dict>
+		</dict>
+		<key>logical operator</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um símbolo, como `&amp;&amp;`, `||` ou `!`, que modifica ou combina os valores lógicos booleanos `true` (verdadeiro) e `false` (falso).</string>
+				<key>Title</key>
+				<string>operador lógico</string>
+			</dict>
+		</dict>
+		<key>loop</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um bloco de código que é repetido um determinado número de vezes (por exemplo, um loop `for`) ou até que uma condição seja cumprida (por exemplo, um loop `while`).</string>
+				<key>Title</key>
+				<string>loop</string>
+			</dict>
+		</dict>
+		<key>memory</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Parte do computador que armazena o código para um aplicativo e os dados que ele usa, seja de forma temporária ou permanente.</string>
+				<key>Title</key>
+				<string>memória</string>
+			</dict>
+		</dict>
+		<key>method</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Uma função ou conjunto de comandos definidos dentro de um [tipo](glossary://type).</string>
+				<key>Title</key>
+				<string>método</string>
+			</dict>
+		</dict>
+		<key>modifier</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Em SwiftUI, um modificador é um [método](glossary://method) chamado em uma visualização para modificar sua aparência ou comportamento. Para que sejam mais legíveis, cada modificador é colocado em uma linha individual abaixo da [instância](glossary://instance) da visualização.</string>
+				<key>Title</key>
+				<string>modificador</string>
+			</dict>
+		</dict>
+		<key>modulo operator</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um símbolo (`%`) que retorna o resto depois de dividir um número por outro. Por exemplo `17 % 5` retorna `2`.</string>
+				<key>Title</key>
+				<string>operador de módulo</string>
+			</dict>
+		</dict>
+		<key>navigation bar</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Uma interface de navegação que permite que você faça uma escolha por tela até que você alcance um destino. Para ir para outro destino, você deve refazer os passos ou recomeçar do início e fazer escolhas diferentes. A barra de navegação na parte superior da tela exibe um título para ajudar a lembrar onde você se encontra e oferece um botão de voltar para que você possa retornar à tela anterior.</string>
+				<key>Title</key>
+				<string>barra de navegação</string>
+			</dict>
+		</dict>
+		<key>nest</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>A colocação de um bloco de código repetitivo, como um loop, dentro de outro.</string>
+				<key>Title</key>
+				<string>aninhar</string>
+			</dict>
+		</dict>
+		<key>observable object</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Quando uma classe [conforma](glossary://conform) com o protocolo `ObservableObject`, qualquer alteração aos valores publicados faz com que todas as visualizações que usam esses valores sejam atualizadas automaticamente para refletir as alterações.</string>
+				<key>Title</key>
+				<string>objeto observável</string>
+			</dict>
+		</dict>
+		<key>observed object</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Quando uma classe [conforma](glossary://conform) com o protocolo `ObservableObject`, a alteração de um dos valores publicados faz com que todas as visualizações que usam esses valores sejam atualizadas automaticamente para refletir as alterações.</string>
+				<key>Title</key>
+				<string>objeto observável</string>
+			</dict>
+		</dict>
+		<key>observer</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Em relação a um [objeto observável](glossary://observable%20object), um observador é qualquer visualização ou objeto que use os dados do objeto observável. Quando os dados do objeto observável são alterados, a SwiftUI reconhece a alteração e diz aos observadores para que atualizem.</string>
+				<key>Title</key>
+				<string>observador</string>
+			</dict>
+		</dict>
+		<key>operator</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um símbolo, como `+`, `-` ou `&amp;&amp;`, que representa uma ação em um ou mais valores. Por exemplo, em `1 + 2`, o operador de adição (`+`) adiciona os números `1` e `2`.</string>
+				<key>Title</key>
+				<string>operador</string>
+			</dict>
+		</dict>
+		<key>outer loop</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um bloco de código repetitivo (um loop) que contém outro loop (interno).</string>
+				<key>Title</key>
+				<string>loop externo</string>
+			</dict>
+		</dict>
+		<key>parameter</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>O nome de um valor de entrada de uma função, usado na definição dessa função. Por exemplo, em `move(distance: Int)`, `distance` (distância) é um parâmetro que aceita um valor do tipo Int.</string>
+				<key>Title</key>
+				<string>parâmetro</string>
+			</dict>
+		</dict>
+		<key>parent view</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>A visualização do contêiner de uma ou mais [visualizações secundárias](glossary://child%20view).</string>
+				<key>Title</key>
+				<string>visualização principal</string>
+			</dict>
+		</dict>
+		<key>pattern</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um conjunto repetitivo de circunstâncias ou dados.</string>
+				<key>Title</key>
+				<string>padrão</string>
+			</dict>
+		</dict>
+		<key>pitch</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Na música, a altura tonal de uma nota significa o quão aguda ou grave a nota é, baseado, principalmente, na frequência da vibração. A altura tonal de uma nota pode ser medida em [Hertz](glossary://hertz). Uma altura tonal alta (~2000 Hz), pode soar como um apito, enquanto uma altura tonal baixa (~40 Hz), pode soar como um mugido de vaca.</string>
+				<key>Title</key>
+				<string>altura tonal</string>
+			</dict>
+		</dict>
+		<key>primitive</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Em relação a um framework de programação, como SwiftUI, uma primitiva é um bloco de construção fornecido pelo framework para compor comportamentos ou [interfaces](glossary://user%20interface) mais complexas.
+</string>
+				<key>Title</key>
+				<string>primitiva</string>
+			</dict>
+		</dict>
+		<key>primitive view</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Uma [visualização](glossary://view) fornecida pelo framework [SwiftUI](glossary://SwiftUI), como uma visualização `Button`, `Text` ou `Image`. Visualizações primitivas são usadas como blocos de construção para criar [visualizações compostas](glossary://composed%20view) mais complexas na [interface de usuário](glossary://user%20interface).</string>
+				<key>Title</key>
+				<string>visualização primitiva</string>
+			</dict>
+		</dict>
+		<key>private</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>A palavra-chave private torna o código disponível apenas dentro daquele arquivo fonte específico.
+- callout(Exemplo):
+`private class MyApp: App { }`</string>
+				<key>Title</key>
+				<string>private</string>
+			</dict>
+		</dict>
+		<key>property</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Uma variável (um contêiner com nome, que armazena um valor) definido dentro de um tipo.</string>
+				<key>Title</key>
+				<string>propriedade</string>
+			</dict>
+		</dict>
+		<key>property wrapper</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um empacotador de propriedades é uma maneira simples de aplicar um padrão comum de comportamento a uma propriedade. Esse empacotador é uma maneira de anotar a propriedade que define como ela será armazenada ou calculada ao ser lida.   Por exemplo, o empacotador de propriedades `@State` diz à SwiftUI para gerenciar o armazenamento de um valor e, sempre que esse valor é alterado, para atualizar qualquer parte de uma visualização que o use.</string>
+				<key>Title</key>
+				<string>empacotador de propriedades</string>
+			</dict>
+		</dict>
+		<key>protocol</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um conjunto de requisitos, como métodos e propriedades, que pode ser adotado (ou seguido) por um tipo, como uma classe, estrutura ou enumeração.   Quando um tipo adota um protocolo, ele fornece sua própria implementação para os requisitos do protocolo e, portanto, conforma com o protocolo.</string>
+				<key>Title</key>
+				<string>protocolo</string>
+			</dict>
+		</dict>
+		<key>pseudocode</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Uma descrição de algoritmo fácil de ler, geralmente escrita com uma mistura de linguagem do dia a dia e código.</string>
+				<key>Title</key>
+				<string>pseudocódigo</string>
+			</dict>
+		</dict>
+		<key>public</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>A palavra-chave public torna o código disponível para qualquer arquivo do projeto.
+                        
+- callout(Exemplo):
+`public func decorateWithSticker(space: Space) { }`
+                    </string>
+				<key>Title</key>
+				<string>public</string>
+			</dict>
+		</dict>
+		<key>published value</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Adicione o [empacotador de propriedades](glossary://property%20wrapper) `@Published` para declarar uma propriedade que notifica todos os [observadores](glossary://observer) quando seu valor está prestes a ser alterado. Quando o valor é alterado, a SwiftUI atualiza todas as visualizações que usam os dados.</string>
+				<key>Title</key>
+				<string>valor publicado</string>
+			</dict>
+		</dict>
+		<key>return type</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Ao definir uma função, você pode opcionalmente definir um tipo de valor que a função passa de volta como saída ao terminar, conhecido como tipo de retorno.</string>
+				<key>Title</key>
+				<string>tipo de retorno</string>
+			</dict>
+		</dict>
+		<key>reusability</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Uma característica de código que permite que ele seja usado em situações diferentes dentro de um aplicativo.</string>
+				<key>Title</key>
+				<string>reusabilidade</string>
+			</dict>
+		</dict>
+		<key>root view</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Uma visualização na qual todas as outras visualizações são colocadas. Também conhecida como [visualização de nível superior](glossary://top-level%20view), esta visualização fica em primeiro na [hierarquia de visualização](glossary://view%20hierarchy) e age como a [visualização principal](glossary://parent%20view) de todas as [visualizações secundárias](glossary://child%20view) na hierarquia.</string>
+				<key>Title</key>
+				<string>visualização raiz</string>
+			</dict>
+		</dict>
+		<key>saturation</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>A intensidade do matiz, desde um tom cinza a totalmente colorido. A saturação é um double (número decimal) que varia de `0` a `1`.</string>
+				<key>Title</key>
+				<string>saturação</string>
+			</dict>
+		</dict>
+		<key>sensor</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um sensor é um dispositivo que detecta eventos — como alterações de calor, luz, som ou movimento — e retorna um valor.</string>
+				<key>Title</key>
+				<string>sensor</string>
+			</dict>
+		</dict>
+		<key>source of truth</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Na construção de apps, um local singular onde todos os dados são modificados. Todas as outras conexões a esses dados são feitas apenas por referência, impedindo que as informações sejam duplicadas em outros locais. </string>
+				<key>Title</key>
+				<string>fonte da verdade</string>
+			</dict>
+		</dict>
+		<key>speech synthesis</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Geração de som pelo computador que se assemelha à fala humana, gerado normalmente a partir de texto.</string>
+				<key>Title</key>
+				<string>síntese de fala</string>
+			</dict>
+		</dict>
+		<key>state</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>As informações armazenadas sobre uma variável, aplicativo ou sistema em uma hora determinada.</string>
+				<key>Title</key>
+				<string>estado</string>
+			</dict>
+		</dict>
+		<key>state object</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Adicione o [empacotador de propriedades](glossary://property%20wrapper) `@StateObject` para declarar um objeto de estado e fornecer um valor inicial que conforme com o [protocolo](glossary://protocol) `ObservableObject`. A SwiftUI gerencia o armazenamento para um objeto de estado e atualiza todas as subvisualizações que usam o valor sempre que os valores publicados são alterados.</string>
+				<key>Title</key>
+				<string>objeto de estado</string>
+			</dict>
+		</dict>
+		<key>state value</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Adicione `@State` antes de uma variável para dizer à SwiftUI para gerenciar o armazenamento para um valor. Quando o valor é alterado, a SwiftUI atualiza qualquer parte da visualização que use esse valor.</string>
+				<key>Title</key>
+				<string>valor de estado</string>
+			</dict>
+		</dict>
+		<key>statement</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Uma estrutura, como um loop ou instrução `if`, que organiza o código em um aplicativo.</string>
+				<key>Title</key>
+				<string>instrução</string>
+			</dict>
+		</dict>
+		<key>string component</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Uma parte — ou substring — de uma string, depois que a string é dividida em partes por um separador. Por exemplo, se a string `"cão+gato+peixe"` for dividida pelo separador `"+"`, os componentes resultantes serão as strings `"cão"`, `"gato"` e `"peixe"`.</string>
+				<key>Title</key>
+				<string>componente da string</string>
+			</dict>
+		</dict>
+		<key>string concatenation</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>A operação de juntar strings ao adicionar uma string ao final de outra. Por exemplo, a concatenação de `"alta"` e `"mente"` é `"altamente"`.</string>
+				<key>Title</key>
+				<string>concatenação de strings</string>
+			</dict>
+		</dict>
+		<key>string interpolation</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>O uso de constantes, variáveis ou expressões de código dentro de uma string maior, para ser substituído por seus valores atuais quando a string for avaliada. Por exemplo, na string `“Karina comeu um \(fruit)”`, se `fruit` for uma variável com o valor `“pêssego”`, `\(fruit)` será substituída por `“pêssego”` quando a string for avaliada, formando `“Karina comeu um pêssego”`.</string>
+				<key>Title</key>
+				<string>interpolação de strings</string>
+			</dict>
+		</dict>
+		<key>syntax</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Regras de programação que computadores conseguem entender e executar.</string>
+				<key>Title</key>
+				<string>sintaxe</string>
+			</dict>
+		</dict>
+		<key>top-level view</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Uma visualização na qual todas as outras visualizações são colocadas. Também conhecida como [visualização raiz](glossary://root%20view), esta visualização fica em primeiro na [hierarquia de visualização](glossary://view%20hierarchy) e age como a [visualização principal](glossary://parent%20view) de todas as [visualizações secundárias](glossary://child%20view) na hierarquia.</string>
+				<key>Title</key>
+				<string>visualização de nível superior</string>
+			</dict>
+		</dict>
+		<key>trailing edge</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>A margem de trilha, quando usada em referência ao conteúdo dentro de uma visualização, se refere à posição horizontal do fim do conteúdo. A posição da margem de trilha depende das suas preferências e é, tipicamente, baseada nos ajustes de local e idioma.
+                    Por exemplo, em um idioma escrito da esquerda para a direita, como português ou inglês, a margem de trilha está à direita. Em idiomas escritos da direita para a esquerda, como árabe ou hebraico, a margem de trilha está à esquerda.</string>
+				<key>Title</key>
+				<string>margem condutora</string>
+			</dict>
+		</dict>
+		<key>type</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um agrupamento com nome, de propriedades (características) e métodos (comportamentos) de um tipo de dados.</string>
+				<key>Title</key>
+				<string>tipo</string>
+			</dict>
+		</dict>
+		<key>typography</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Arte e técnica de ordenar tipos para tornar a linguagem escrita perceptível, legível e atraente quando exibida.</string>
+				<key>Title</key>
+				<string>tipografia</string>
+			</dict>
+		</dict>
+		<key>user input</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Informações que um aplicativo obtém da interação com o usuário, como quando um usuário toca na tela, digita texto no teclado ou fala no microfone. 
+</string>
+				<key>Title</key>
+				<string>entrada do usuário</string>
+			</dict>
+		</dict>
+		<key>user interface</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>A maneira como um usuário controla um app. Também chamada de “IU”, este termo é geralmente usado para se referir à parte visual de um app com a qual um usuário interage, com elementos que incluem imagens, texto, botões, controles, visualizações roláveis e outros.</string>
+				<key>Title</key>
+				<string>interface de usuário</string>
+			</dict>
+		</dict>
+		<key>variable</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um contêiner com nome, que armazena um valor que pode ser alterado.</string>
+				<key>Title</key>
+				<string>variável</string>
+			</dict>
+		</dict>
+		<key>velocity</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>A velocidade de algo em uma direção determinada.</string>
+				<key>Title</key>
+				<string>velocidade</string>
+			</dict>
+		</dict>
+		<key>view</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Uma visualização é um bloco de construção da interface de usuário do app e representa qualquer elemento visual que [conforme](glossary://conform) com o [protocolo](glossary://protocol) `View`.
+
+Alguns exemplos de visualizações em SwiftUI são visualizações de texto, visualizações de imagem, controles, grades, botões e formas.</string>
+				<key>Title</key>
+				<string>visualização</string>
+			</dict>
+		</dict>
+		<key>view hierarchy</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Uma estrutura que define o layout das visualizações em relação a outras visualizações, com uma referência à instância da visualização de nível superior no início da hierarquia. A visualização de nível superior pode conter qualquer número de subvisualizações, onde cada uma pode conter suas próprias visualizações secundárias e assim por diante.</string>
+				<key>Title</key>
+				<string>hierarquia de visualização</string>
+			</dict>
+		</dict>
+		<key>volume</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Volume é a intensidade do som detectado pelo [sensor](glossary://sensor). Varia entre 0 e 1.</string>
+				<key>Title</key>
+				<string>volume</string>
+			</dict>
+		</dict>
+		<key>while loop</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Um bloco de código que é executado continuamente enquanto uma condição determinada for `true` (verdadeira). Quando a condição muda para `false` (falsa), o loop deixa de ser executado.</string>
+				<key>Title</key>
+				<string>loop “while”</string>
+			</dict>
+		</dict>
+		<key>wireframe</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>O contorno de um item, como uma joia, controle ou bloco, no mundo do puzzle. Um contorno indica a possibilidade do item aparecer aleatoriamente a cada vez que o puzzle é executado.</string>
+				<key>Title</key>
+				<string>contorno</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>

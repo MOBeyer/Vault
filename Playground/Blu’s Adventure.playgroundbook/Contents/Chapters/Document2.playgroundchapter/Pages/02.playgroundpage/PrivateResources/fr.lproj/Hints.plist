@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+La fonction `addImage(touch:)` ne renvoie aucune action si `touch.previousPlaceDistance` est inférieur à une certaine valeur. Remplace cette valeur par 80 : cela espacera les graphismes ⭐️.
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### Tu as compris ?
+
+Si tu utilises une valeur plus grande, ton toucher devra se déplacer davantage avant que `touch.previousPlaceDistance` atteigne cette valeur et les étoiles seront plus éloignées. Essaie plusieurs valeurs différentes.
+
+[**Page suivante**](@next)
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

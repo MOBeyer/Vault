@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array/>
+	<key>solution</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+`for graphic in graphics {`\
+`   squishGraphic(graphic: graphic)`\
+`}`
+			</string>
+		</dict>
+	</dict>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### ¡Excelente trabajo!
+
+La escena puede tener un único botón al que puedes llamar como quieras. Además, puedes escribir tu propio gestor de eventos de “toque de botón” para este botón, con el que podrás hacer todo tipo de cosas útiles.
+
+[**Página siguiente**](@next)
+  	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

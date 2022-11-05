@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+ใช้ `things[index]` และ `colors[index]` เพื่อใช้สิ่งของอวกาศและสี
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>solution</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+`let graphic = Graphic(text: things[index])`\
+\
+`graphic.textColor = colors[index]`
+			</string>
+		</dict>
+	</dict>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### ทำดีแล้ว!
+
+คุณสามารถใช้เครื่องมือ**ข้อความ**เพื่อวางข้อความเหมือนกับที่คุณใช้เครื่องมือ**ภาพ**เพื่อวางภาพ ทั้งสองเครื่องมือจะวางชื่อแทนประเภท `Graphic` ลงบนฉากในขณะที่ตำแหน่งที่คุณแตะเลื่อน
+
+[**หน้าถัดไป**](@next)
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
