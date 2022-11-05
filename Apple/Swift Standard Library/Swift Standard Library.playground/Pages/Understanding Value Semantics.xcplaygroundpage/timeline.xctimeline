@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Timeline
+   version = "3.0">
+   <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/moritzbeyer/Library/Mobile%20Documents/com~apple~CloudDocs/Swift%20Playground/Swift%20Standard%20Library.playground/Pages/Understanding%20Value%20Semantics.xcplaygroundpage#CharacterRangeLen=34&amp;CharacterRangeLoc=866&amp;EndingColumnNumber=0&amp;EndingLineNumber=12&amp;StartingColumnNumber=1&amp;StartingLineNumber=11&amp;Timestamp=669223431.164538"
+         lockedSize = "{252, 155}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/moritzbeyer/Library/Mobile%20Documents/com~apple~CloudDocs/Swift%20Playground/Swift%20Standard%20Library.playground/Pages/Understanding%20Value%20Semantics.xcplaygroundpage#CharacterRangeLen=26&amp;CharacterRangeLoc=1389&amp;EndingColumnNumber=0&amp;EndingLineNumber=26&amp;StartingColumnNumber=1&amp;StartingLineNumber=25&amp;Timestamp=669223431.16471"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/moritzbeyer/Library/Mobile%20Documents/com~apple~CloudDocs/Swift%20Playground/Swift%20Standard%20Library.playground/Pages/Understanding%20Value%20Semantics.xcplaygroundpage#CharacterRangeLen=34&amp;CharacterRangeLoc=2219&amp;EndingColumnNumber=0&amp;EndingLineNumber=33&amp;StartingColumnNumber=1&amp;StartingLineNumber=32&amp;Timestamp=669223431.164818"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+   </TimelineItems>
+</Timeline>
