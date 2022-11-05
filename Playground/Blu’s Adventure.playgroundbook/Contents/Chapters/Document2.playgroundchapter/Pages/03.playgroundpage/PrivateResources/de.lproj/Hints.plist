@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Wähle zum Verschieben einer Grafik das **Bewegen**-Werkzeug aus. Berühre danach eine beliebige Grafik und ziehe sie über die Szene, um sie zu verschieben.
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Wähle zum Entfernen einer Grafik das **Entfernen**-Werkzeug aus und berühre die Grafik.
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Das ist eine **Experimentierseite** und es gibt keine Lösung. Du kannst herumexperimentieren und dir deine eigenen Lösungen ausdenken.
+		</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Verwende das Werkzeug **Bewegen**, um die Instrumentengrafiken weiter in die Mitte zu schieben (für einen höheren Ton) oder weiter weg (für einen tieferen Ton).
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Drei Instrumentenwerkzeuge werden für dich bereitgestellt, die du aber ändern kannst; außerdem kannst du weitere hinzufügen. Scrolle im Code nach unten zu `// Instrumentenwerkzeuge hinzufügen`.
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Versuche es einmal mit Berühren und Ziehen über die Instrumentengrafiken.
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Beschränke dich nicht auf Instrumente, du kannst ein Werkzeug hinzufügen, um Toneffekte abzuspielen oder Text vorzulesen.
+		</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
