@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Basic Operators'/>
+        <page name='Terminology'/>
+        <page name='Assignment Operator'/>
+        <page name='Arithmetic Operators'/>
+        <page name='Remainder Operator'/>
+        <page name='Unary Operator'/>
+        <page name='Compound Assignment Operators'/>
+        <page name='Comparison Operators'/>
+        <page name='Nil-Coalescing Operator'/>
+        <page name='Range Operators'/>
+        <page name='Logical Operators'/>
+        <page name='HackingWithSwift'/>
+        <page name='Develop in Swift Fundamentals'/>
+    </pages>
+</playground>

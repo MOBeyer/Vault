@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Defining and Calling Functions'/>
+        <page name='Function Parameters and Return Values'/>
+        <page name='Optional Tuple Return Types'/>
+        <page name='Function Arguments and labels'/>
+        <page name='Function Types'/>
+        <page name='Nested Function'/>
+        <page name='Function Error Handling'/>
+        <page name='Checkpoint 4'/>
+    </pages>
+</playground>
