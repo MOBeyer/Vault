@@ -6,3 +6,4 @@
 	url = https://MOBeyer@github.com/MOBeyer/BuildingAFeatureRichAppForSportsAnalysis.git
 [submodule "Apple/SwiftUI/SwiftUI_Playground"]
 	path = Apple/SwiftUI/SwiftUI_Playground
+	url = https://MOBeyer@github.com/MOBeyer/SwiftUI_Playground.git
