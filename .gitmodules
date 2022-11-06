@@ -4,3 +4,5 @@
 [submodule "Apple/CoreML/Core ML/BuildingAFeatureRichAppForSportsAnalysis"]
 	path = Apple/CoreML/Core ML/BuildingAFeatureRichAppForSportsAnalysis
 	url = https://MOBeyer@github.com/MOBeyer/BuildingAFeatureRichAppForSportsAnalysis.git
+[submodule "Apple/SwiftUI/SwiftUI_Playground"]
+	path = Apple/SwiftUI/SwiftUI_Playground
