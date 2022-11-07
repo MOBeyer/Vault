@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playground target-platform="ios" version="6.0" requires-full-environment="false">
+    <pages>
+        <page name="Constants and Variables"/>
+        <page name="Type Annotations"/>
+        <page name="Naming Constants and Variables"/>
+        <page name="Printing Constants and Variables"/>
+        <page name="Comments"/>
+        <page name="Semicolons"/>
+        <page name="Integers"/>
+        <page name="Floating-Point Numbers"/>
+        <page name="Type Safety and Type Inference"/>
+        <page name="Numeric Literals"/>
+        <page name="Numeric Type Conversion"/>
+        <page name="Integer and Floating-Point Conversion"/>
+        <page name="Type Aliases"/>
+        <page name="Booleans"/>
+        <page name="Tuples"/>
+        <page name="Optionals"/>
+        <page name="If Statements and Forced Unwrapping"/>
+        <page name="Optional Binding"/>
+        <page name="Implicitly Unwrapped Optionals"/>
+        <page name="Error Handling"/>
+        <page name="Assertions and Preconditions"/>
+        <page name="Untitled Page"/>
+    </pages>
+</playground>

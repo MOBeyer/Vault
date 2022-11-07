@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Enumerations'/>
+        <page name='Iterating over Enumeration Cases'/>
+        <page name='Associated Values'/>
+        <page name='Raw Values'/>
+        <page name='Recursive Enumerations'/>
+        <page name='HWS'/>
+        <page name='HWS Enumerations associated values'/>
+        <page name='HWS Raw Values'/>
+    </pages>
+</playground>

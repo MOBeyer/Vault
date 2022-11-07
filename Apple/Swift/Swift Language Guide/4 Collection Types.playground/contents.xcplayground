@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Arrays'/>
+        <page name='Collection Types'/>
+        <page name='Accessing and Modifying an Array'/>
+        <page name='Sets'/>
+        <page name='Accessing and Modifying a Set'/>
+        <page name='Performing Set Operations'/>
+        <page name='Dictionaries'/>
+        <page name='Accessing and Modifying a Dictionary'/>
+        <page name='Quiz'/>
+    </pages>
+</playground>

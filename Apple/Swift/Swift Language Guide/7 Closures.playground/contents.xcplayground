@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Closure'/>
+        <page name='Closures Expressions'/>
+        <page name='Closure Expression Syntax'/>
+        <page name='Closures(updated)'/>
+        <page name='Trailing Closures'/>
+        <page name='Omitting parameter labels'/>
+        <page name='Capturing Values'/>
+        <page name='Escaping Closures'/>
+        <page name='Autoclosures'/>
+        <page name='HWS'/>
+        <page name='HWS SwiftUI'/>
+        <page name='How to create and use closures'/>
+        <page name='Untitled Page'/>
+        <page name='Untitled Page 2'/>
+        <page name='Checkpoint 5'/>
+        <page name='Quiz HWS'/>
+        <page name='Udemy'/>
+        <page name='MO What are Closures?'/>
+    </pages>
+</playground>

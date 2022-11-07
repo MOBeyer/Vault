@@ -1,0 +1,9 @@
+[submodule "Apple/Xcode Tutorials/HWS_Apple_Tutorial"]
+	path = Apple/Xcode Tutorials/HWS_Apple_Tutorial
+	url = https://MOBeyer@github.com/MOBeyer/swiftui-tutorials.git
+[submodule "Apple/CoreML/Core ML/BuildingAFeatureRichAppForSportsAnalysis"]
+	path = Apple/CoreML/Core ML/BuildingAFeatureRichAppForSportsAnalysis
+	url = https://MOBeyer@github.com/MOBeyer/BuildingAFeatureRichAppForSportsAnalysis.git
+[submodule "Apple/SwiftUI/SwiftUI_Playground"]
+	path = Apple/SwiftUI/SwiftUI_Playground
+	url = https://MOBeyer@github.com/MOBeyer/SwiftUI_Playground.git

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Control Flow'/>
+        <page name='For-In Loops'/>
+        <page name='While Loops'/>
+        <page name='Repeat-While'/>
+        <page name='Conditional Statements'/>
+        <page name='Switch'/>
+        <page name='No Implicit Fallthrough'/>
+        <page name='Interval Matching'/>
+        <page name='Tuples'/>
+        <page name='Value Bindings'/>
+        <page name='Where'/>
+        <page name='Compound Cases'/>
+        <page name='Control Transfer Statements'/>
+        <page name='Continue'/>
+        <page name='Break'/>
+        <page name='Fallthrough'/>
+        <page name='Labeled Statements'/>
+        <page name='Early Exit'/>
+        <page name='Checking API Availability'/>
+        <page name='HackingWithSwift'/>
+        <page name='Udemy'/>
+    </pages>
+</playground>

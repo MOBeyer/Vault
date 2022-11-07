@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playground target-platform="ios" requires-full-environment="false" version="6.0">
+    <pages>
+        <page name="9 Structures and Classes"/>
+        <page name="Computed Properties"/>
+        <page name="How to take action when a property changes?"/>
+        <page name="How to create custom intializers?"/>
+        <page name="Classes"/>
+        <page name="Creating your own classes"/>
+        <page name="How to copy classes"/>
+        <page name="How to create a deintializer for a class"/>
+        <page name="How to work with variables inside classes?"/>
+        <page name="Untitled Page"/>
+    </pages>
+</playground>
