@@ -7,3 +7,8 @@
 [submodule "Apple/SwiftUI/SwiftUI_Playground"]
 	path = Apple/SwiftUI/SwiftUI_Playground
 	url = https://MOBeyer@github.com/MOBeyer/SwiftUI_Playground.git
+[submodule "Apple/Xcode Tutorials/ScrumdingerSwiftUI"]
+	path = Apple/Xcode Tutorials/ScrumdingerSwiftUI
+[submodule "Apple/Xcode Tutorials/Scrumdinger/CreatingACardView/StartingProject"]
+	path = Apple/Xcode Tutorials/Scrumdinger/CreatingACardView/StartingProject
+	url = https://MOBeyer@github.com/MOBeyer/StartingProject.git
