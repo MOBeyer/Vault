@@ -7,5 +7,5 @@ var greeting = "Hello, playground"
 //: [Next](@next)
 
 struct Fahrenheit {
-    
+    var temperature: Double
 }
