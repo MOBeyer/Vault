@@ -6,3 +6,6 @@ var greeting = "Hello, playground"
 
 //: [Next](@next)
 
+struct Fahrenheit {
+    
+}
