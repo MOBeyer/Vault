@@ -15,3 +15,5 @@
 [submodule "100-days-of-swiftui"]
 	path = 100-days-of-swiftui
 	url = https://github.com/MOBeyer/100-days-of-swiftui.git
+[submodule "Apple/Xcode Tutorials/Scrumdinger/DisplayingDataInAList/StartingProject"]
+	path = Apple/Xcode Tutorials/Scrumdinger/DisplayingDataInAList/StartingProject
