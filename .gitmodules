@@ -21,3 +21,6 @@
 [submodule "Cloud Vault"]
 	path = Cloud Vault
 	url = https://MOBeyer@github.com/MOBeyer/Cloud-Vault.git
+[submodule "Apple/CoreML/Core ML/BuildingAFeatureRichAppForSportsAnalysis"]
+	path = Apple/CoreML/Core ML/BuildingAFeatureRichAppForSportsAnalysis
+	url = https://MOBeyer@github.com/MOBeyer/BuildingAFeatureRichAppForSportsAnalysis.git
