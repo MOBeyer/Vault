@@ -18,6 +18,7 @@
 	path = Apple/Xcode Tutorials/Scrumdinger/CreatingANavigationHierarchy/StartingProject
 [submodule "Apple/Xcode Tutorials/Scrumdinger/CreatingTheEditView/StartingProject"]
 	path = Apple/Xcode Tutorials/Scrumdinger/CreatingTheEditView/StartingProject
+	url = https://MOBeyer@github.com/MOBeyer/StartingProject.git
 [submodule "Cloud Vault"]
 	path = Cloud Vault
 	url = https://MOBeyer@github.com/MOBeyer/Cloud-Vault.git
