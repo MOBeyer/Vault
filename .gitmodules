@@ -21,3 +21,7 @@
 [submodule "Apple/CoreML/Core ML/BuildingAFeatureRichAppForSportsAnalysis"]
 	path = Apple/CoreML/Core ML/BuildingAFeatureRichAppForSportsAnalysis
 	url = https://MOBeyer@github.com/MOBeyer/BuildingAFeatureRichAppForSportsAnalysis.git
+[submodule "Xing-Playground/Test App/Test App"]
+	path = Xing-Playground/Test App/Test App
+[submodule "Xing-Playground/DataCollectionViewTest/DataCollectionViewTest"]
+	path = Xing-Playground/DataCollectionViewTest/DataCollectionViewTest
