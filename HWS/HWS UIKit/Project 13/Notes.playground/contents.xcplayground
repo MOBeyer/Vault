@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Project 13, part one'/>
+        <page name='Designing the interface'/>
+        <page name='Importing a picture'/>
+        <page name='Applying filters'/>
+        <page name='Saving to the IOS photo library'/>
+    </pages>
+</playground>
